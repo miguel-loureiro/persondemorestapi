@@ -10,6 +10,6 @@ public class PersonController {
 
     @GetMapping
     public String getPerson() {
-        return "API WORKS";
+        return "API WORK A LOT";
     }
 }
